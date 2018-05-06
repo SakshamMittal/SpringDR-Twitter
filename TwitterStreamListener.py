@@ -6,10 +6,10 @@ import io
 import os
 import json
 
-ckey = 'G1nMcWNmqm7endXfwSOk3Ez1h'
-consumer_secret = 'Be9eDI1nZ5XAqrTgKkemZqWbRXrpHguHzmZmdZJWYmhl8GKNT2'
-access_token_key = '699938589228969985-5gIbAYDPKzh52hWLHqa1d7XUszlImv6'
-access_token_secret = 'vm0sDNNMfscBS2NbAgFVfKzhprCFGQOY6fmiIiFmI9bMI'
+ckey = '*******************'
+consumer_secret = '**************************************************'
+access_token_key = '**********************************************'
+access_token_secret = '*****************************************'
 
 start_time = time.time() #grabs the System time
 keyword_list = ['twitter']  #track list
